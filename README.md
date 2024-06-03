@@ -2,6 +2,12 @@
 
 Renders a category tree data structure to a web page and have an ability to add new nodes interactively.
 
+## Installing the project
+
+### `npm install`
+
+Installs needed dependencies
+
 ## Available Scripts
 
 In the project directory, you can run:
